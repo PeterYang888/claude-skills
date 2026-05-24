@@ -1,0 +1,32 @@
+{
+  "name": "Peter大師",
+  "slug": "peter-master",
+  "created_at": "2026-05-08T00:00:00+08:00",
+  "updated_at": "2026-05-08T00:00:00+08:00",
+  "version": "v1",
+  "profile": {
+    "age": "42",
+    "occupation": "產品總監（老虎機遊戲產業）",
+    "city": "台中",
+    "gender": "male",
+    "mbti": "未知",
+    "zodiac": "天蠍座"
+  },
+  "tags": {
+    "personality": ["天蠍座", "AB型", "台中人", "直男", "真誠", "情緒內斂"],
+    "lifestyle": ["老虎機產業", "Claude重度使用者", "高爾夫球友", "三代同住", "兩個小孩"]
+  },
+  "impression": "典型台灣中部人，不南不北；喜歡新事物，有興趣就鑽透；對外情緒掌控得宜，對內容易被牽動；有小孩後更明顯",
+  "memory_sources": [
+    "LINE_周一一.txt",
+    "LINE_張瓊文.txt",
+    "LINE_Family.txt",
+    "LINE_PCx3.txt",
+    "LINE_PeterHome.txt",
+    "LINE_Suki.txt",
+    "LINE_大里打球約約.txt",
+    "LINE_楊振倫AlanYang.txt",
+    "LINE_BillyTam.txt"
+  ],
+  "corrections_count": 0
+}

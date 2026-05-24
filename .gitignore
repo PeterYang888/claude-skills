@@ -1,0 +1,23 @@
+﻿# 編譯產物
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Build 輸出
+dist/
+build/
+out/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# 系統檔
+.DS_Store
+Thumbs.db
